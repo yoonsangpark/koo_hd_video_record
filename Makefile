@@ -1,4 +1,4 @@
-MODULE_NAME = hd_video_record
+MODULE_NAME = koo_hd_video_record
 # DIRs
 VOS_DRIVER_DIR = $(NVT_VOS_DIR)/drivers
 HDAL_SAMPLE_DIR = $(NVT_HDAL_DIR)/samples
